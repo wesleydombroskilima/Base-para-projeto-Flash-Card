@@ -2,88 +2,88 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+   'Física e Tecnociencia ',
+    'Oque é energia? ',
+    'É a capacidade de realizar trabalho  '
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Física e Teconociencia ',
+    'Cite uma fonte de energia renomável ',
+    ' Sola '
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'Programação ',
+    'Oque é algoritimo ',
+    'Um passo para resolver um problema '
 )
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
-)
-
-criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+   'Programação ',
+    'Oque é uma varíavel ',
+    'Um espaço para quardados'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Ed. Física ',
+    'Por que fazer exercícios ',
+    'Para cuidar da saúde '
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Ed. Física ',
+    'Oque é aquecimento  ',
+    'Preparação para um exercício '
+)
+criaCartao(
+   'Sociologia ',
+    'Oque a Sociologia estuda',
+    'A sociodade '
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Sociologia ',
+    'Oque é cultura ',
+    'Costumes e tradições de um povo Português '
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Portuguẽs ',
+    'Oque é Substantivo ',
+    'Palavra que dá o nome ao seres '
+)
+criaCartao(
+   'Portuguẽs ',
+    'Oque ẽ um verbo ',
+    'Palavra que indica ação '
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Robótica ',
+    'Oque é um Robô ',
+    'Uma máquina programada '
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Robótica',
+    'Pra que serve um semor ',
+    'Para detectar informações'
+)
+criaCartao(
+   'Matemática',
+    '8x7',
+    '56'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
+    'Matemática',
+    '100x4',
+    '400'
+)
+
+criaCartao(
+    'Física',
+    '',
     'Resposta 3'
 )
 criaCartao(
